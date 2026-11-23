@@ -15,3 +15,6 @@ Push this directory to a GitHub repository. In Cloudflare Pages choose Connect t
 - Test quote handling and contact links before publishing.
 
 This is a functional frontend demo; the RFQ button prepares a mailto draft and does not submit data to a server.
+
+## Image updates
+Original generated industrial imagery is stored in `public/images/` and served locally. Company: rotating equipment; Expertise: large valves and technical experts; Products & Services: valve operator. Removed the catch-all `_redirects` rule that Cloudflare rejected with error 100324.
