@@ -8,3 +8,6 @@
 .expertise-gallery .photo-panel{min-height:490px;box-shadow:none}
 .expertise-gallery .photo-label{font-size:10px;left:14px;right:10px}
 @media(max-width:600px){.expertise-gallery{grid-template-columns:1fr}.expertise-gallery .photo-panel{min-height:280px}}
+.photo-rotating {background-image: url("/images/rotating-equipment.webp");}
+.photo-bigvalves {background-image: url("/images/large-industrial-valves.webp");}
+.photo-inspection {background-image: url("/images/valve-operator-inspection.webp");}
