@@ -18,3 +18,6 @@ This is a functional frontend demo; the RFQ button prepares a mailto draft and d
 
 ## Image updates
 Original generated industrial imagery is stored in `public/images/` and served locally. Company: rotating equipment; Expertise: large valves and technical experts; Products & Services: valve operator. Removed the catch-all `_redirects` rule that Cloudflare rejected with error 100324.
+
+
+Updated visual catalog: product photos under public/images/products and original industry illustrations under public/images/industries. Upload entire public directory preserving folder structure.
